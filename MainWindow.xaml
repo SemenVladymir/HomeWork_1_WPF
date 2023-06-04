@@ -49,7 +49,7 @@
                 WEB<LineBreak/>ASP.NET
             </TextBlock>
         </Label>
-        <Label Grid.Row="1" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="Blue" FontSize="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+        <Label Grid.Row="1" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="CornflowerBlue" FontSize="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
             <TextBlock TextAlignment="Center" Foreground="White">
                 CLOUD<LineBreak/>Azure
             </TextBlock>
@@ -64,7 +64,7 @@
                 GAMING<LineBreak/>Unity
             </TextBlock>
         </Label>
-        <Label Grid.Row="1" Grid.Column="11" Grid.RowSpan="3"  Background="CadetBlue" FontSize="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+        <Label Grid.Row="1" Grid.Column="11" Grid.RowSpan="3"  Background="SteelBlue" FontSize="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
             <TextBlock TextAlignment="Center" Foreground="White">
                 IoT<LineBreak/>ARM32<LineBreak/>ARM64
             </TextBlock>
@@ -81,7 +81,7 @@
         <Label Grid.Row="7" Grid.Column="14"  Background="LightGray" FontSize="11" Foreground="DarkSlateGray" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center" Grid.RowSpan="2" >COMMAND LINE INTERFACE</Label>
         <Label Grid.Row="9" Grid.Column="14"  Background="LightGray"  ></Label>
         <Label Grid.Row="4" Grid.Column="1"  Background="BlueViolet" FontSize="11" Foreground="LightGray" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="13" >.NET STANDART</Label>
-        <Label Grid.Row="5" Grid.Column="1"  Background="DarkViolet" FontSize="26" Foreground="white" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="13" >.NET 5</Label>
+        <Label Grid.Row="5" Grid.Column="1"  Background="DarkViolet" FontSize="35" Foreground="white" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="13" >.NET 5</Label>
         <Label Grid.Row="6" Grid.Column="1"  Background="BlueViolet" FontSize="11" Foreground="LightGray" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="13" ></Label>
         <Label Grid.Row="7" Grid.Column="1"  Background="DarkViolet" FontSize="11" Foreground="white"  VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center" Grid.ColumnSpan="13">INFRASTRUCTURE</Label>
         <Label Grid.Row="8" Grid.Column="1"  Background="DarkViolet" FontSize="11" Foreground="LightGray" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="13" Grid.RowSpan="2" ></Label>
